@@ -31,4 +31,4 @@ snake-game/
 ### Сборка образа:
 ```bash
 docker build -t snake-game .
-docker run -it --rm snake-game .
+docker run -it --rm snake-game
