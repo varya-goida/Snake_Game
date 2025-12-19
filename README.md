@@ -1,7 +1,16 @@
 # Игра Змейка на Python
 
 Классическая игра "Змейка" с графическим интерфейсом на tkinter.
-
+## Архитектура проекта
+snake-game/
+├── main.py
+├── constants.py
+├── game_engine.py
+├── ui_manager.py
+├── dialogs.py
+├── README.md
+├── Dockerfile
+└── .gitignore
 ## Особенности
 - Выбор уровня сложности (легкий, средний, тяжелый)
 - Ввод имени игрока
