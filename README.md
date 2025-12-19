@@ -15,8 +15,8 @@
 - Python 3.6 или выше
 - Tkinter (обычно входит в стандартную поставку Python)
 
-### Установка
-1. Клонируйте репозиторий:
+## Запуск через Docker
+
+### Сборка образа:
 ```bash
-git clone https://github.com/ваш-username/snake-game.git
-cd snake-game
+docker build -t snake-game .
