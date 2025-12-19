@@ -10,6 +10,7 @@ snake-game/
 ├── dialogs.py
 ├── README.md
 ├── Dockerfile
+├── init.py
 └── .gitignore
 ## Особенности
 - Выбор уровня сложности (легкий, средний, тяжелый)
