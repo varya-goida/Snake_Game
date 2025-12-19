@@ -28,7 +28,7 @@ snake-game/
 
 ## Запуск через Docker
 
-### Сборка образа:
+### Сборка и запуск образа:
 ```bash
 docker build -t snake-game .
 docker run -it --rm snake-game
