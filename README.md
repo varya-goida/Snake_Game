@@ -5,7 +5,6 @@
 
 markdown
 ## Структура проекта
-
 ```plaintext
 snake-game/
 ├── SCR/
@@ -18,7 +17,7 @@ snake-game/
 ├── .pre-commit-config.yaml
 ├── README.md
 ├── Dockerfile
-└── .gitignore
+└── .gitignore '''
 ## Особенности
 - Выбор уровня сложности (легкий, средний, тяжелый)
 - Ввод имени игрока
