@@ -3,16 +3,16 @@
 Классическая игра "Змейка" с графическим интерфейсом на tkinter.
 ## Архитектура проекта
 snake-game/
-│
+├──SCR/
+|  ├── constants.py
+|  ├── game_engine.py
+|  ├── ui_manager.py
+|  ├── dialogs.py
+|  └──init.py
 ├── main.py
 ├── .pre-commit-config.yaml
-├── constants.py
-├── game_engine.py
-├── ui_manager.py
-├── dialogs.py
 ├── README.md
 ├── Dockerfile
-├── init.py
 └── .gitignore
 ## Особенности
 - Выбор уровня сложности (легкий, средний, тяжелый)
