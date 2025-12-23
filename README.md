@@ -5,8 +5,8 @@
 snake-game/
 │
 ├── main.py
-├── constants.py
 ├── .pre-commit-config.yaml
+├── constants.py
 ├── game_engine.py
 ├── ui_manager.py
 ├── dialogs.py
