@@ -21,7 +21,7 @@ markdown
 ```bash
 docker build -t snake-game .
 docker run -it --rm snake-game
-
+```
 ### Архитектура проекта
 ```plaintext
 snake-game/
